@@ -3,8 +3,6 @@ import 'package:flutterfirbasecrud/screens/login.dart';
 import 'package:flutterfirbasecrud/screens/register.dart';
 
 class Home extends StatefulWidget {
-  const Home({Key? key}) : super(key: key);
-
   @override
   _HomeState createState() => _HomeState();
 }
